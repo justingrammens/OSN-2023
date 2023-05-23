@@ -13,3 +13,11 @@ I’m the Founder and CEO of Lab651 where our teams guides and supports our cust
 Additionally, I am the creator, producer, and host of the AppliedAI Podcast which allows me to interview some of the world’s leading experts on Artificial Intelligence & Machine Learning, and am a co-founder of the 501(c)(3) non-profit AppliedAI and an Adjunct Professor teaching graduate-level classes at the University of Saint Thomas 
  
 Most importantly, I’m blessed to have a loving wife and two amazing boys who are the light of my life and keep me strong and centered. Let’s connect! I would love to help you however I can.
+
+Additonal Links:
+
+* [Docs Reference (Start here)](https://platform.openai.com/docs/introduction)
+* [Examples](https://platform.openai.com/examples)
+* [API Reference](https://platform.openai.com/docs/api-reference)
+* [Playground](https://platform.openai.com/playground)
+* [Open AI Cookbook](https://github.com/openai/openai-cookbook)
