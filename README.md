@@ -14,7 +14,7 @@ Additionally, I am the creator, producer, and host of the [AppliedAI Podcast](ht
  
 Most importantly, I’m blessed to have a loving wife and two amazing boys who are the light of my life and keep me strong and centered. [Let’s connect!](https://justingrammens.com) I would love to help you however I can.
 
-Additonal Links:
+Additional Links:
 
 * [Docs Reference (Start here)](https://platform.openai.com/docs/introduction)
 * [Examples](https://platform.openai.com/examples)
